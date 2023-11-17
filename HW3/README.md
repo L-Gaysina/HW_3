@@ -1,15 +1,15 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](/L-Gaysina/HW_3/blob/master/HW3/.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](/L-Gaysina/HW_3/blob/master/HW3/.README.md#Какой-кейс-решаем)  
-[3. Результат](/L-Gaysina/HW_3/blob/master/HW3/.README.md#Результат)    
+[1. Описание проекта](https://github.com/L-Gaysina/HW_3/blob/master/HW3/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/L-Gaysina/HW_3/blob/master/HW3/README.md#Какой-кейс-решаем)  
+[3. Результат](https://github.com/L-Gaysina/HW_3/blob/master/HW3/README.md#Результат)    
 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](/L-Gaysina/HW_3/blob/master/HW3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/L-Gaysina/HW_3/blob/master/HW3/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -24,13 +24,13 @@
 
 **Что практикуем**     
 Учимся писать хороший код на python
-:arrow_up:[к оглавлению](/L-Gaysina/HW_3/blob/master/HW3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/L-Gaysina/HW_3/blob/master/HW3/README.md#Оглавление)
 
 
 ### Результаты:  
 Алгоритм угадывает число в среднем за 5 попыток
 
-:arrow_up:[к оглавлению](/L-Gaysina/HW_3/blob/master/HW3/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/L-Gaysina/HW_3/blob/master/HW3/README.md#Оглавление)
 
 
 
